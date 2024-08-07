@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   description: "AI-powered Image generator",
 };
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
